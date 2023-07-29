@@ -1,3 +1,3 @@
-export function cal(){
+export function calDev(){
     return 1;
 }
